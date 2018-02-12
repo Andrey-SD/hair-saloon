@@ -10,7 +10,7 @@
 	<div>
 		<a href="template1/index.html"><img src="images/temp1.bmp" alt="temp1"><p>Шаблон №1</p></a>
 		<a href="template2/index.html"><img src="images/temp2.bmp" alt="temp2"><p>Шаблон №2</p></a>
-		<a href="template3/index.html"><img src="images/temp3.bmp" alt="temp2"><p>Шаблон №3</p></a>
+		<a href="template3/hair.html"><img src="images/temp3.bmp" alt="temp2"><p>Шаблон №3</p></a>
 	</div>
 </body>
 </html>
