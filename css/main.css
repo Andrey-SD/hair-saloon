@@ -1,0 +1,16 @@
+img{
+	width: 600px;	
+}
+
+div{
+	width: 610px;
+	margin: 0 auto;
+}
+
+a{
+	margin: 5px;
+}
+
+p, h1{
+	text-align: center;
+}
